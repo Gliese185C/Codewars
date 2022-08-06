@@ -1,0 +1,15 @@
+C:\Users\JonyHowman\Desktop\Test\Codewars\TheSuperMarket\TheSuperMarket\bin\Debug\net6.0\TheSuperMarket.exe
+C:\Users\JonyHowman\Desktop\Test\Codewars\TheSuperMarket\TheSuperMarket\bin\Debug\net6.0\TheSuperMarket.deps.json
+C:\Users\JonyHowman\Desktop\Test\Codewars\TheSuperMarket\TheSuperMarket\bin\Debug\net6.0\TheSuperMarket.runtimeconfig.json
+C:\Users\JonyHowman\Desktop\Test\Codewars\TheSuperMarket\TheSuperMarket\bin\Debug\net6.0\TheSuperMarket.dll
+C:\Users\JonyHowman\Desktop\Test\Codewars\TheSuperMarket\TheSuperMarket\bin\Debug\net6.0\TheSuperMarket.pdb
+C:\Users\JonyHowman\Desktop\Test\Codewars\TheSuperMarket\TheSuperMarket\obj\Debug\net6.0\TheSuperMarket.csproj.AssemblyReference.cache
+C:\Users\JonyHowman\Desktop\Test\Codewars\TheSuperMarket\TheSuperMarket\obj\Debug\net6.0\TheSuperMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JonyHowman\Desktop\Test\Codewars\TheSuperMarket\TheSuperMarket\obj\Debug\net6.0\TheSuperMarket.AssemblyInfoInputs.cache
+C:\Users\JonyHowman\Desktop\Test\Codewars\TheSuperMarket\TheSuperMarket\obj\Debug\net6.0\TheSuperMarket.AssemblyInfo.cs
+C:\Users\JonyHowman\Desktop\Test\Codewars\TheSuperMarket\TheSuperMarket\obj\Debug\net6.0\TheSuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\JonyHowman\Desktop\Test\Codewars\TheSuperMarket\TheSuperMarket\obj\Debug\net6.0\TheSuperMarket.dll
+C:\Users\JonyHowman\Desktop\Test\Codewars\TheSuperMarket\TheSuperMarket\obj\Debug\net6.0\refint\TheSuperMarket.dll
+C:\Users\JonyHowman\Desktop\Test\Codewars\TheSuperMarket\TheSuperMarket\obj\Debug\net6.0\TheSuperMarket.pdb
+C:\Users\JonyHowman\Desktop\Test\Codewars\TheSuperMarket\TheSuperMarket\obj\Debug\net6.0\TheSuperMarket.genruntimeconfig.cache
+C:\Users\JonyHowman\Desktop\Test\Codewars\TheSuperMarket\TheSuperMarket\obj\Debug\net6.0\ref\TheSuperMarket.dll
