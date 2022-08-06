@@ -1,0 +1,15 @@
+C:\Users\JonyHowman\Desktop\Test\Codewars\Zmeika\Zmeika\bin\Debug\net6.0\Zmeika.exe
+C:\Users\JonyHowman\Desktop\Test\Codewars\Zmeika\Zmeika\bin\Debug\net6.0\Zmeika.deps.json
+C:\Users\JonyHowman\Desktop\Test\Codewars\Zmeika\Zmeika\bin\Debug\net6.0\Zmeika.runtimeconfig.json
+C:\Users\JonyHowman\Desktop\Test\Codewars\Zmeika\Zmeika\bin\Debug\net6.0\Zmeika.dll
+C:\Users\JonyHowman\Desktop\Test\Codewars\Zmeika\Zmeika\bin\Debug\net6.0\Zmeika.pdb
+C:\Users\JonyHowman\Desktop\Test\Codewars\Zmeika\Zmeika\obj\Debug\net6.0\Zmeika.csproj.AssemblyReference.cache
+C:\Users\JonyHowman\Desktop\Test\Codewars\Zmeika\Zmeika\obj\Debug\net6.0\Zmeika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JonyHowman\Desktop\Test\Codewars\Zmeika\Zmeika\obj\Debug\net6.0\Zmeika.AssemblyInfoInputs.cache
+C:\Users\JonyHowman\Desktop\Test\Codewars\Zmeika\Zmeika\obj\Debug\net6.0\Zmeika.AssemblyInfo.cs
+C:\Users\JonyHowman\Desktop\Test\Codewars\Zmeika\Zmeika\obj\Debug\net6.0\Zmeika.csproj.CoreCompileInputs.cache
+C:\Users\JonyHowman\Desktop\Test\Codewars\Zmeika\Zmeika\obj\Debug\net6.0\Zmeika.dll
+C:\Users\JonyHowman\Desktop\Test\Codewars\Zmeika\Zmeika\obj\Debug\net6.0\refint\Zmeika.dll
+C:\Users\JonyHowman\Desktop\Test\Codewars\Zmeika\Zmeika\obj\Debug\net6.0\Zmeika.pdb
+C:\Users\JonyHowman\Desktop\Test\Codewars\Zmeika\Zmeika\obj\Debug\net6.0\Zmeika.genruntimeconfig.cache
+C:\Users\JonyHowman\Desktop\Test\Codewars\Zmeika\Zmeika\obj\Debug\net6.0\ref\Zmeika.dll

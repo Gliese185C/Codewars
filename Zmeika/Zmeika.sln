@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zmeika", "Zmeika\Zmeika.csproj", "{F976D974-2E96-46AD-AAF2-C8C179D5A319}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F976D974-2E96-46AD-AAF2-C8C179D5A319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F976D974-2E96-46AD-AAF2-C8C179D5A319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F976D974-2E96-46AD-AAF2-C8C179D5A319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F976D974-2E96-46AD-AAF2-C8C179D5A319}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
