@@ -1,0 +1,15 @@
+C:\Users\JonyHowman\Desktop\Test\Codewars\Kata\Kata\bin\Debug\net6.0\Kata.exe
+C:\Users\JonyHowman\Desktop\Test\Codewars\Kata\Kata\bin\Debug\net6.0\Kata.deps.json
+C:\Users\JonyHowman\Desktop\Test\Codewars\Kata\Kata\bin\Debug\net6.0\Kata.runtimeconfig.json
+C:\Users\JonyHowman\Desktop\Test\Codewars\Kata\Kata\bin\Debug\net6.0\Kata.dll
+C:\Users\JonyHowman\Desktop\Test\Codewars\Kata\Kata\bin\Debug\net6.0\Kata.pdb
+C:\Users\JonyHowman\Desktop\Test\Codewars\Kata\Kata\obj\Debug\net6.0\Kata.csproj.AssemblyReference.cache
+C:\Users\JonyHowman\Desktop\Test\Codewars\Kata\Kata\obj\Debug\net6.0\Kata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JonyHowman\Desktop\Test\Codewars\Kata\Kata\obj\Debug\net6.0\Kata.AssemblyInfoInputs.cache
+C:\Users\JonyHowman\Desktop\Test\Codewars\Kata\Kata\obj\Debug\net6.0\Kata.AssemblyInfo.cs
+C:\Users\JonyHowman\Desktop\Test\Codewars\Kata\Kata\obj\Debug\net6.0\Kata.csproj.CoreCompileInputs.cache
+C:\Users\JonyHowman\Desktop\Test\Codewars\Kata\Kata\obj\Debug\net6.0\Kata.dll
+C:\Users\JonyHowman\Desktop\Test\Codewars\Kata\Kata\obj\Debug\net6.0\refint\Kata.dll
+C:\Users\JonyHowman\Desktop\Test\Codewars\Kata\Kata\obj\Debug\net6.0\Kata.pdb
+C:\Users\JonyHowman\Desktop\Test\Codewars\Kata\Kata\obj\Debug\net6.0\Kata.genruntimeconfig.cache
+C:\Users\JonyHowman\Desktop\Test\Codewars\Kata\Kata\obj\Debug\net6.0\ref\Kata.dll
